@@ -2,4 +2,7 @@
 <h1>repo1</h1>
 </center> 
 </hr>
-<h1>Contact:7339429806</hr> 
+<h1>Contact:7339429806</h1> 
+
+<p>You can get lorem ipsum text by typing =lorem() in Microsoft Word, using online generators, or using code editor shortcuts like lorem + Tab in Visual Studio Code. For Word, you can customize the amount of text by adding a number of paragraphs and sentences within the parentheses (e.g., =lorem(5,3) for five paragraphs with three sentences each)</p>
+
